@@ -20,7 +20,7 @@ Theo Doropoulos and Cullen Bailey<br />
 		<p class="mb50">See the <a href="contact.php">contacts page</a> for details on how to contact us to get more information about Cricket Lovers events.</p>
 		<h3>Annual Dinner Speakers</h3>
 		<div class="cf">
-			<table summary="Annual Dinner Speakers" cellspacing="0" class="fl">
+			<!--<table summary="Annual Dinner Speakers" cellspacing="0" class="fl">
 				<tr><th>2012</th><td>Daryl Harper</td></tr>
 				<tr><th>2011</th><td>Paul Wilson</td></tr>
 				<tr><th>2010</th><td>Max O'Connell</td></tr>
@@ -39,7 +39,7 @@ Theo Doropoulos and Cullen Bailey<br />
 				<tr><th>1997</th><td>Kate Slatter</td></tr>
 				<tr><th>1996</th><td>Joe Hoad</td></tr>
 				<tr><th>1995</th><td>Bill Frindall</td></tr>
-			</table>
+			</table>-->
 			<table summary="Annual Dinner Speakers" cellspacing="0" class="fr">
 				<tr><th>1994</th><td>Jeff Hammond</td></tr>
 				<tr><th>1993</th><td>Max Pfitzner</td></tr>
