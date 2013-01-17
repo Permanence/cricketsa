@@ -5,7 +5,7 @@
 <title>Cricket Lovers South Australia</title>
 <?php include('includes/header.php'); ?>
 	<div id="contents" class="cf">
-<!--
+
 		<div class="top_box">
 			<h2>Love your Cricket?<br />Would you like to help out at the "Grass Roots"?</h2>
 			<p>The Adelaide Uni Cricket Club is currently looking for scorers for their Grade Cricket teams.</p>
@@ -13,7 +13,7 @@
 			<p>A small payment is provided for each day scored. This might be a great opportunity for an interested school or Uni student to earn some cash.</p>
 			<p>If you know (or think you can learn) how to score and are interested in contributing to a Grade Cricket Club in Adelaide please contact David Penn (M. 0439 490 010 or E. david.penn (AT) sa.gov.au).</p>
 		</div>
--->
+
 		<div class="cf mb40">
 			<p class="fl"><img src="common/images/ph01.jpg" width="400" height="310" alt="" /></p>
 			<div class="fr">
